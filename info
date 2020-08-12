@@ -1,0 +1,18 @@
+You neew Visual Studio<any version ..>.I used VS2019 
+
+Follow this link for creating your web api.
+https://youtu.be/6qwuFQDB2jU
+
+
+If your web api created successfully then you can test your api request on postman.
+
+Install postman:
+Windows:
+        https://www.postman.com/downloads/
+        
+Ubuntu:
+      sudo apt-get update
+      sudo apt-get install snapd
+      sudo snap install postman
+      
+      
