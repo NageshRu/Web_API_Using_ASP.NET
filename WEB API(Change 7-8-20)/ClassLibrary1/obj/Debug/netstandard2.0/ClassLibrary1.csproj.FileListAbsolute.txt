@@ -1,0 +1,18 @@
+N:\WebApplication1\ClassLibrary1\bin\Debug\netstandard2.0\ClassLibrary1.deps.json
+N:\WebApplication1\ClassLibrary1\bin\Debug\netstandard2.0\ClassLibrary1.dll
+N:\WebApplication1\ClassLibrary1\bin\Debug\netstandard2.0\ClassLibrary1.pdb
+N:\WebApplication1\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.csprojAssemblyReference.cache
+N:\WebApplication1\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.AssemblyInfoInputs.cache
+N:\WebApplication1\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.AssemblyInfo.cs
+N:\WebApplication1\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.csproj.CoreCompileInputs.cache
+N:\WebApplication1\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.dll
+N:\WebApplication1\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.pdb
+N:\Sankey Project\WEB API(Change 7-8-20)\ClassLibrary1\bin\Debug\netstandard2.0\ClassLibrary1.deps.json
+N:\Sankey Project\WEB API(Change 7-8-20)\ClassLibrary1\bin\Debug\netstandard2.0\ClassLibrary1.dll
+N:\Sankey Project\WEB API(Change 7-8-20)\ClassLibrary1\bin\Debug\netstandard2.0\ClassLibrary1.pdb
+N:\Sankey Project\WEB API(Change 7-8-20)\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.csprojAssemblyReference.cache
+N:\Sankey Project\WEB API(Change 7-8-20)\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.AssemblyInfoInputs.cache
+N:\Sankey Project\WEB API(Change 7-8-20)\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.AssemblyInfo.cs
+N:\Sankey Project\WEB API(Change 7-8-20)\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.csproj.CoreCompileInputs.cache
+N:\Sankey Project\WEB API(Change 7-8-20)\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.dll
+N:\Sankey Project\WEB API(Change 7-8-20)\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.pdb
